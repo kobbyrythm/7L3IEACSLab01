@@ -2,6 +2,21 @@
 #define PROBLEM1_H
 
 
-// prototype for my function
-void example_function();
+//swapping variables
+void SwapValue(int a, int b);
+
+
+//same Sign
+bool sameSign(int x, int y);
+
+//even or Odd
+bool EvenOdd(int num){
+  bool b;
+}
+
+//first or second
+int first();
+int second();
+
+
 #endif // PROBLEM1_H
